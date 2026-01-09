@@ -14,4 +14,4 @@ A análise revelou que o volume de tráfego não garante eficiência:
 * **Facebook Ads**: Maior volume de cliques, mas baixa conversão.
 * **E-mail Marketing**: Canal mais eficiente, com taxa de conversão superior a **10%**.
 
- ![Gráfico de Eficiência](grafico_eficiencia_final.png)
+![Gráfico de Eficiência](grafico_eficiencia_final.png)
